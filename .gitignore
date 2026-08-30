@@ -1,0 +1,7 @@
+python/
+
+clips/*
+!clips/.gitkeep
+
+models/*
+!models/.gitkeep
